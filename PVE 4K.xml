@@ -238,7 +238,7 @@
 		<anchorXOffset Type="3" Value="100.800000" />
 		<anchorYOffset Type="3" Value="398.400000" />
 		<scale Type="3" Value="1.250000" />
-		<enabled Type="2" Value="1" />
+		<enabled Type="2" Value="0" />
 		<alpha Type="3" Value="100.000000" />
 	</SocialNotifications>
 	<FocusTarget>
