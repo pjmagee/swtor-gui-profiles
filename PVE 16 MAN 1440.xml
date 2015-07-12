@@ -539,8 +539,8 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</ViewMessageItem>
 	<DeathWindow>
-		<AnchorOffsetX Type="3" Value="-403.050000" />
-		<AnchorOffsetY Type="3" Value="265.000000" />
+		<AnchorOffsetX Type="3" Value="-411.050000" />
+		<AnchorOffsetY Type="3" Value="258.000000" />
 		<AnchorAlignment Type="3" Value="6.000000" />
 	</DeathWindow>
 	<SecureTrade>
@@ -584,9 +584,9 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</GCWindow>
 	<Mail>
-		<AnchorOffsetX Type="3" Value="335.000000" />
-		<AnchorOffsetY Type="3" Value="383.000000" />
-		<AnchorAlignment Type="3" Value="1.000000" />
+		<AnchorOffsetX Type="3" Value="280.500000" />
+		<AnchorOffsetY Type="3" Value="282.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</Mail>
 	<CrewWindow>
 		<AnchorOffsetX Type="3" Value="330.000000" />
@@ -609,9 +609,9 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</SpaceCombatOptions>
 	<DressingRoomWindow>
-		<AnchorOffsetX Type="3" Value="251.000000" />
-		<AnchorOffsetY Type="3" Value="407.000000" />
-		<AnchorAlignment Type="3" Value="7.000000" />
+		<AnchorOffsetX Type="3" Value="801.000000" />
+		<AnchorOffsetY Type="3" Value="449.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</DressingRoomWindow>
 	<CustomerSupportWindow>
 		<AnchorOffsetX Type="3" Value="656.000000" />
@@ -649,13 +649,13 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</QueueWindow>
 	<WorldMapWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="473.500000" />
+		<AnchorOffsetY Type="3" Value="178.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</WorldMapWindow>
 	<CharacterSheet>
-		<AnchorOffsetX Type="3" Value="667.000000" />
-		<AnchorOffsetY Type="3" Value="264.500000" />
+		<AnchorOffsetX Type="3" Value="828.000000" />
+		<AnchorOffsetY Type="3" Value="208.500000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</CharacterSheet>
 	<QuickTravelWindow>
@@ -669,7 +669,7 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</MissionBoard>
 	<MissionRewardWindow>
-		<AnchorOffsetX Type="3" Value="-240.000000" />
+		<AnchorOffsetX Type="3" Value="-238.000000" />
 		<AnchorOffsetY Type="3" Value="150.000000" />
 		<AnchorAlignment Type="3" Value="4.000000" />
 	</MissionRewardWindow>
@@ -694,9 +694,9 @@
 		<AnchorAlignment Type="3" Value="7.000000" />
 	</MailViewMessage>
 	<Inventory>
-		<AnchorOffsetX Type="3" Value="658.500000" />
-		<AnchorOffsetY Type="3" Value="376.500000" />
-		<AnchorAlignment Type="3" Value="7.000000" />
+		<AnchorOffsetX Type="3" Value="-188.000000" />
+		<AnchorOffsetY Type="3" Value="123.500000" />
+		<AnchorAlignment Type="3" Value="4.000000" />
 	</Inventory>
 	<ItemEnhancements>
 		<AnchorOffsetX Type="3" Value="80.000000" />
@@ -704,8 +704,8 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</ItemEnhancements>
 	<GuildBank>
-		<AnchorOffsetX Type="3" Value="419.000000" />
-		<AnchorOffsetY Type="3" Value="214.000000" />
+		<AnchorOffsetX Type="3" Value="425.000000" />
+		<AnchorOffsetY Type="3" Value="211.000000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</GuildBank>
 	<AdvancedClassWindow>
@@ -773,8 +773,8 @@
 		<FlipHorizontal Type="2" Value="0" />
 	</CompanionCastbar>
 	<AuctionHouse>
-		<AnchorOffsetX Type="3" Value="298.000000" />
-		<AnchorOffsetY Type="3" Value="404.000000" />
+		<AnchorOffsetX Type="3" Value="143.000000" />
+		<AnchorOffsetY Type="3" Value="336.000000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</AuctionHouse>
 	<GroupFinderPopUp>
@@ -1140,8 +1140,8 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</MissionShareWindow>
 	<DisciplineWindow>
-		<AnchorOffsetX Type="3" Value="432.000000" />
-		<AnchorOffsetY Type="3" Value="173.500000" />
+		<AnchorOffsetX Type="3" Value="428.000000" />
+		<AnchorOffsetY Type="3" Value="174.500000" />
 		<AnchorAlignment Type="3" Value="7.000000" />
 	</DisciplineWindow>
 	<StrongholdAccessManagementWindow>
