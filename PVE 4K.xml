@@ -1,6 +1,6 @@
 <GUIProfile Version="1">
 	<TargetPortrait>
-		<anchorXOffset Type="3" Value="209.200000" />
+		<anchorXOffset Type="3" Value="206.800000" />
 		<anchorAlignment Type="3" Value="8.000000" />
 		<anchorYOffset Type="3" Value="-213.600000" />
 		<scale Type="3" Value="1.000000" />
@@ -23,9 +23,9 @@
 		<DebuffsSortType Type="3" Value="0.000000" />
 	</TargetPortrait>
 	<PlayerPortrait>
-		<anchorXOffset Type="3" Value="-237.000000" />
+		<anchorXOffset Type="3" Value="-246.100000" />
 		<anchorAlignment Type="3" Value="8.000000" />
-		<anchorYOffset Type="3" Value="-214.000000" />
+		<anchorYOffset Type="3" Value="-210.800000" />
 		<scale Type="3" Value="1.050000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
@@ -1060,8 +1060,8 @@
 	</SystemMessages>
 	<PlayerPositiveEffectTray>
 		<anchorAlignment Type="3" Value="8.000000" />
-		<anchorXOffset Type="3" Value="-348.625000" />
-		<anchorYOffset Type="3" Value="-336.450000" />
+		<anchorXOffset Type="3" Value="-353.425000" />
+		<anchorYOffset Type="3" Value="-331.650000" />
 		<scale Type="3" Value="1.250000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
@@ -1151,8 +1151,8 @@
 		<AnchorAlignment Type="3" Value="7.000000" />
 	</StrongholdAccessManagementWindow>
 	<WardrobeStampModificationWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
+		<AnchorOffsetX Type="3" Value="-147.200000" />
+		<AnchorOffsetY Type="3" Value="57.600000" />
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</WardrobeStampModificationWindow>
 </GUIProfile>

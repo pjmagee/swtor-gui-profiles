@@ -539,8 +539,8 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</ViewMessageItem>
 	<DeathWindow>
-		<AnchorOffsetX Type="3" Value="-403.050000" />
-		<AnchorOffsetY Type="3" Value="265.000000" />
+		<AnchorOffsetX Type="3" Value="-409.050000" />
+		<AnchorOffsetY Type="3" Value="257.000000" />
 		<AnchorAlignment Type="3" Value="6.000000" />
 	</DeathWindow>
 	<SecureTrade>
@@ -584,9 +584,9 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</GCWindow>
 	<Mail>
-		<AnchorOffsetX Type="3" Value="335.000000" />
-		<AnchorOffsetY Type="3" Value="383.000000" />
-		<AnchorAlignment Type="3" Value="1.000000" />
+		<AnchorOffsetX Type="3" Value="280.500000" />
+		<AnchorOffsetY Type="3" Value="282.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</Mail>
 	<CrewWindow>
 		<AnchorOffsetX Type="3" Value="330.000000" />
@@ -654,8 +654,8 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</WorldMapWindow>
 	<CharacterSheet>
-		<AnchorOffsetX Type="3" Value="667.000000" />
-		<AnchorOffsetY Type="3" Value="264.500000" />
+		<AnchorOffsetX Type="3" Value="673.000000" />
+		<AnchorOffsetY Type="3" Value="262.500000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</CharacterSheet>
 	<QuickTravelWindow>
@@ -694,8 +694,8 @@
 		<AnchorAlignment Type="3" Value="7.000000" />
 	</MailViewMessage>
 	<Inventory>
-		<AnchorOffsetX Type="3" Value="658.500000" />
-		<AnchorOffsetY Type="3" Value="376.500000" />
+		<AnchorOffsetX Type="3" Value="497.500000" />
+		<AnchorOffsetY Type="3" Value="276.500000" />
 		<AnchorAlignment Type="3" Value="7.000000" />
 	</Inventory>
 	<ItemEnhancements>
@@ -773,8 +773,8 @@
 		<FlipHorizontal Type="2" Value="0" />
 	</CompanionCastbar>
 	<AuctionHouse>
-		<AnchorOffsetX Type="3" Value="298.000000" />
-		<AnchorOffsetY Type="3" Value="404.000000" />
+		<AnchorOffsetX Type="3" Value="143.000000" />
+		<AnchorOffsetY Type="3" Value="336.000000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</AuctionHouse>
 	<GroupFinderPopUp>
